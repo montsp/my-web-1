@@ -29,7 +29,7 @@ sections:
     form_layout: stacked
     enable_card: false
     form_id: lorem-ipsum
-    form_action: lorem-ipsu
+    form_action: 'https://scratch.mit.edu/users/montowakami/'
     form_fields: []
     submit_label: Scratch
     align_vert: top
