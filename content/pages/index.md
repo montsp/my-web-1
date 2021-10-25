@@ -19,33 +19,6 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     title: Hi ! I'm montsp.
-  - section_id: lorem-ipsum
-    title_align: left
-    content_align: left
-    form_position: bottom
-    form_width: fifty
-    form_layout: stacked
-    enable_card: false
-    form_id: j
-    form_fields:
-      - input_type: text
-        name: 'https://scratch.mit.edu/users/montowakami/'
-        label: lorem-ipsum
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
-    submit_label: b
-    align_vert: top
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
-    form_action: b
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
