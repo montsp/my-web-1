@@ -38,10 +38,9 @@ sections:
         media_width: sixty
       - title: Github
         subtitle: 'Product updates, inventory and pricing.'
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          It doesn't seem to be useful, but I use Github to publish various
+          codes.
         actions:
           - label: Learn More
             url: /about
