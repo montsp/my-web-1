@@ -5,10 +5,7 @@ sections:
     subtitle: >-
       I am Japanese.I'm doing a lot of trial and error.I can speak a little
       English.(The face photo is private.)
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: primary
+    actions: []
     image: /images/watercolor.png
     image_alt: A smiling woman
     media_position: right
