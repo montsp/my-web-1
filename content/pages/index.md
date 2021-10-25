@@ -31,7 +31,7 @@ sections:
     form_id: lorem-ipsum
     form_action: lorem-ipsu
     form_fields: []
-    submit_label: lorem-ipsum
+    submit_label: Scratch
     align_vert: top
     padding_top: medium
     padding_bottom: medium
