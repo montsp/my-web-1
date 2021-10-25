@@ -43,7 +43,7 @@ sections:
     form_layout: stacked
     enable_card: false
     form_id: lorem-ipsum
-    form_action: lorem-ipsum
+    form_action: lorem-ipsu
     form_fields: []
     submit_label: lorem-ipsum
     align_vert: top
