@@ -73,9 +73,7 @@ sections:
     background_color: none
   - type: grid_section
     grid_items:
-      - content: |
-          **
-        image_position: left
+      - image_position: left
         image_width: twenty-five
       - content: |
           **
