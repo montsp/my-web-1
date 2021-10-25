@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     subtitle: >-
-      I am japanese.I'm doing a lot of trial and error.I can speak a little
+      I am Japanese.I'm doing a lot of trial and error.I can speak a little
       English.(The face photo is private.)
     actions:
       - label: Contact Me
