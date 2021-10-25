@@ -26,7 +26,7 @@ sections:
         content: |
           I am making a project with various functions centering on games.
         actions:
-          - label: My Sc
+          - label: My Scrct
             url: /faq
             style: primary
             has_icon: true
