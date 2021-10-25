@@ -27,7 +27,7 @@ sections:
           I am making a project with various functions centering on games.
         actions:
           - label: My Scratch Web
-            url: /faq
+            url: 'https://scratch.mit.edu/users/montowakami/'
             style: primary
             has_icon: true
             icon: arrow-right
