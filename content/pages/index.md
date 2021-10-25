@@ -20,7 +20,7 @@ sections:
     background_image_opacity: 8
     title: Hi ! I'm montsp.
   - type: features_section
-    title: My services
+    title: The service I use
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
