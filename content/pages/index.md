@@ -23,7 +23,6 @@ sections:
     title: The service I use
     features:
       - title: Scratch
-        subtitle: 'Website, blog, social media and more.'
         content: |
           I am making a project with various functions centering on games.
         actions:
