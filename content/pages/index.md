@@ -42,7 +42,7 @@ sections:
           codes.
         actions:
           - label: GIthub Page
-            url: '/abouthttps://github.com/montsp'
+            url: 'https://github.com/montsp'
             style: secondary
             has_icon: true
             icon: arrow-right
