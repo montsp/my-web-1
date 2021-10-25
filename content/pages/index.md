@@ -27,7 +27,7 @@ sections:
     form_width: fifty
     form_layout: stacked
     enable_card: false
-    form_id: lorem-ipsu
+    form_id: lorem-ip
     form_action: 'https://scratch.mit.edu/users/montowakami/'
     form_fields: []
     submit_label: Scratch
