@@ -27,7 +27,7 @@ sections:
     form_width: fifty
     form_layout: stacked
     enable_card: false
-    form_id: lorem-ip
+    form_id: j
     form_fields:
       - input_type: text
         name: lorem-ipsum
