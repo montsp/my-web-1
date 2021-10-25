@@ -52,7 +52,6 @@ sections:
         media_position: right
         media_width: sixty
       - title: Codesandbox
-        subtitle: 'Your products and services, at scale.'
         content: |+
           I'm coding a lot of code.
 
