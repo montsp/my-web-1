@@ -56,7 +56,7 @@ sections:
           I'm coding a lot of code.
 
         actions:
-          - label: See Past Work
+          - label: My Web
             url: /faq
             style: primary
             has_icon: true
