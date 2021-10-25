@@ -22,7 +22,7 @@ sections:
   - type: features_section
     title: The service I use
     features:
-      - title: Content Creation
+      - title: Scratch
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
