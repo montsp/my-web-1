@@ -57,7 +57,7 @@ sections:
 
         actions:
           - label: My Web
-            url: /faq
+            url: 'https://codesandbox.io/u/montsp'
             style: primary
             has_icon: true
             icon: arrow-right
