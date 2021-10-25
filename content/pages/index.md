@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: I am japanese.
+    subtitle: I am japanese.I'm doing a lot of trial and error.
     actions:
       - label: Contact Me
         url: /contact
