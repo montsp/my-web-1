@@ -37,7 +37,6 @@ sections:
         media_position: right
         media_width: sixty
       - title: Github
-        subtitle: 'Product updates, inventory and pricing.'
         content: >
           It doesn't seem to be useful, but I use Github to publish various
           codes.
