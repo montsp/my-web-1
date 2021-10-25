@@ -24,10 +24,8 @@ sections:
     features:
       - title: Scratch
         subtitle: 'Website, blog, social media and more.'
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: |
+          I am making a project with various functions centering on games.
         actions:
           - label: See Writing Samples
             url: /faq
