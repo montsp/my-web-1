@@ -75,7 +75,7 @@ sections:
         image_width: twenty-five
       - image_position: left
         image_width: twenty-five
-        title: mon
+        title: montsp
       - image_position: left
         image_width: twenty-five
       - image_position: left
