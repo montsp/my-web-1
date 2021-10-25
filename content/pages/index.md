@@ -41,7 +41,7 @@ sections:
           It doesn't seem to be useful, but I use Github to publish various
           codes.
         actions:
-          - label: Learn More
+          - label: GIthub Pa
             url: /about
             style: secondary
             has_icon: true
