@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     subtitle: >-
       I am japanese.I'm doing a lot of trial and error.I can speak a little
-      English.
+      English.(The face photo is private.)
     actions:
       - label: Contact Me
         url: /contact
