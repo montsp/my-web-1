@@ -75,9 +75,7 @@ sections:
         image_width: twenty-five
       - image_position: left
         image_width: twenty-five
-      - content: |
-          **
-        image_position: left
+      - image_position: left
         image_width: twenty-five
       - image_position: left
         image_width: twenty-five
