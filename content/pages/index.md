@@ -20,7 +20,6 @@ sections:
     background_image_opacity: 8
     title: Hi ! I'm montsp.
   - section_id: lorem-ipsum
-    title: Click here for the web.
     title_align: left
     content_align: left
     form_position: bottom
