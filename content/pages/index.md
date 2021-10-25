@@ -81,9 +81,7 @@ sections:
           **
         image_position: left
         image_width: twenty-five
-      - content: |
-          **
-        image_position: left
+      - image_position: left
         image_width: twenty-five
     grid_cols: two
     grid_gap_horiz: medium
