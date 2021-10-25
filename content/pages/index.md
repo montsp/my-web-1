@@ -79,7 +79,6 @@ sections:
         image_width: twenty-five
       - content: |
           **
-        image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
       - content: >-
